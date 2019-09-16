@@ -1,0 +1,13 @@
+.image{
+    width:100px;
+    height:150px;
+}
+.bottom{
+    position: fixed;
+    text-align: center;
+    width:100%;
+    bottom: 20px;
+    line-height:60px;
+    border-bottom:1px solid #FAECE5;
+    color:#FAECE5
+}
